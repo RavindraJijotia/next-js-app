@@ -6,7 +6,7 @@ const Index = (props) => {
   // useFlags
 
   const getHtml = () => {
-    return <h1>Home Page Component Changed</h1>;
+    return <h1>Home Page Component</h1>;
   };
 
   return getHtml();
