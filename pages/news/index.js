@@ -5,7 +5,7 @@ const NewsList = (props) => {
   const getHtml = () => {
     return (
       <Fragment>
-        <h1>News List Page Component</h1>
+        <h1>News Page Component</h1>
         <ul>
           <li>
             <Link href="/news/1">This is a first news</Link>
